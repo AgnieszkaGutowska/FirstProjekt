@@ -1,0 +1,17 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ç“ƒıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(À‹¹ üÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(òª“î
+Q	java:S125"<This block of commented-out lines of code should be removed.(»‹îª
+V	java:S1251"<This block of commented-out lines of code should be removed.(œ‡Ûıÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "car 1" 3 times.(¦î€ÿÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(Í ‹¨üÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(áî¥˜
+Q	java:S125)"<This block of commented-out lines of code should be removed.(óçıÖ
+V	java:S125	"<This block of commented-out lines of code should be removed.(½âÑûÿÿÿÿ
+V	java:S1256"<This block of commented-out lines of code should be removed.(ãğ•Áüÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(“ë¼È
+Q	java:S125?"<This block of commented-out lines of code should be removed.(±×äô
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¼™ºÇ

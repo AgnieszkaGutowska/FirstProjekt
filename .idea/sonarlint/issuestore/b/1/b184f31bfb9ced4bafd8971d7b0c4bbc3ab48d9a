@@ -1,0 +1,10 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ôí–
+}
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(èà×«ûÿÿÿÿ
+C
+java:S1172
+"(Remove this unused method parameter "s".(œ£‡Àøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ëº´©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÙÇúÿÿÿÿ
